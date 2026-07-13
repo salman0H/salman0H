@@ -6,17 +6,17 @@
 
 - 🔭 I’m currently working on [Smart building dashboards and automation systems at Mobin Smart Structures](https://github.com/salman0H/dashboard-core)
 
-- 🌱 I’m currently learning **Next.js, FastAPI, software architecture, and advanced frontend development**
+-  I’m currently learning **Next.js, FastAPI, software architecture, and advanced frontend development**
 
-- 👯 I’m looking to collaborate on **Open-source web applications, AI-powered tools, and innovative startup projects**
+-  I’m looking to collaborate on **Open-source web applications, AI-powered tools, and innovative startup projects**
 
-- 🤝 I’m looking for help with **Building scalable full-stack applications and exploring modern system architectures**
+-  I’m looking for help with **Building scalable full-stack applications and exploring modern system architectures**
 
-- 💬 Ask me about **React, Next.js, Python, web development, REST APIs, and programming education**
+-  Ask me about **React, Next.js, Python, web development, REST APIs, and programming education**
 
-- 📫 How to reach me **salmanhashemi247@gmail.com**
+-  How to reach me **salmanhashemi247@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV.pdf](https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV.pdf)
+-  Know about my experiences [https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV.pdf](https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV.pdf)
 
 - ⚡ Fun fact **I started teaching programming while still being a student, and I love sharing knowledge with others.**
 
