@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman0h&label=Profile%20views&color=0e75b6&style=flat" alt="salman0h" /> </p>
 
 
-- 🔭 I’m currently working on [Smart building dashboards and automation systems at Mobin Smart Structures](https://github.com/salman0H/dashboard-core)
+-  I’m currently working on [Smart building dashboards and automation systems at Mobin Smart Structures](https://github.com/salman0H/dashboard-core)
 
 -  I’m currently learning **Next.js, FastAPI, software architecture, and advanced frontend development**
 
@@ -18,7 +18,7 @@
 
 -  Know about my experiences [https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV.pdf](https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV.pdf)
 
-- ⚡ Fun fact **I started teaching programming while still being a student, and I love sharing knowledge with others.**
+-  Fun fact **I started teaching programming while still being a student, and I love sharing knowledge with others.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
