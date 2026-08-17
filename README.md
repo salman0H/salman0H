@@ -1,35 +1,133 @@
-<h1 align="center">Hi 👋, I'm Salman Hashemi</h1>
-<h3 align="center">Computer Engineering Student at the University of Birjand Passionate about artificial intelligence and computer networking.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Salman+Hashemi!+%F0%9F%91%8B;Full-Stack+Web+Developer;Computer+Engineering+Student;AI+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman0h&label=Profile%20views&color=0e75b6&style=flat" alt="salman0h" /> </p>
+<div align="center">
+  <a href="mailto:salmanhashemi247@gmail.com"><img src="https://img.shields.io/badge/Email-salmanhashemi247%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download_CV-2671E5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <img src="https://komarev.com/ghpvc/?username=salman0H&color=38B2AC&style=for-the-badge&label=Profile+Views" alt="Views" />
+</div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
--  I’m currently working on [Smart building dashboards and automation systems at Mobin Smart Structures](https://github.com/salman0H/dashboard-core)
+### ✨ About Me & My Journey
 
--  I’m currently learning **Next.js, FastAPI, software architecture, and advanced frontend development**
+I am a creative and curious **Computer Engineering student** at *Birjand University*[cite: 1], currently based in Mashhad, Iran[cite: 1]. I have a deep passion for the intersection of **Artificial Intelligence**, **Computer Networks**, and innovative **Software Development**[cite: 1]. I pride myself on being a fast learner with strong problem-solving abilities, always committed to writing clean code and sharing my knowledge with others[cite: 1].
 
--  I’m looking to collaborate on **Open-source web applications, AI-powered tools, and innovative startup projects**
+- 🏢 **Currently working as** a Frontend Developer at **Mobin Smart Structures**, building web-based dashboards and control panels for smart building automation systems[cite: 1].
+- 👨‍🏫 **Previously**, I worked as an Advanced Web Design Instructor at **AbrClass**, teaching and mentoring students through practical projects[cite: 1].
+- 🧠 **Currently exploring** AI/ML frameworks like **TensorFlow** and **PyTorch**, alongside modern frontend architectures[cite: 1].
+- 🌱 **Soft Skills:** Time Management, Problem Solving, Teamwork, Mentoring, and an Agile Mindset[cite: 1].
+- ⚡ **Fun Fact:** I started teaching programming while still being a student, and I absolutely love sharing knowledge!
 
--  I’m looking for help with **Building scalable full-stack applications and exploring modern system architectures**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
--  Ask me about **React, Next.js, Python, web development, REST APIs, and programming education**
+### 🛠️ Technologies & Tools
 
--  How to reach me **salmanhashemi247@gmail.com**
+<table>
+  <tr>
+    <td width="25%" align="center"><b>🌐 Frontend</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI & Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚀 DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
--  Know about my experiences [https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV.pdf](https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV.pdf)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
--  Fun fact **I started teaching programming while still being a student, and I love sharing knowledge with others.**
+### 💻 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/salman-hashemi-695149255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/salman-hashemi-695149255" height="30" width="40" /></a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚲 BikeShare Admin Dashboard</h3>
+      <p>A full-featured management panel for bike-sharing systems. It includes interactive Neshan maps, real-time station data, KPI charts, and alert management[cite: 1].</p>
+      <p><i><b>Stack:</b> React, TypeScript, Tailwind CSS, JSON Server[cite: 1]</i></p>
+      <a href="https://github.com/salman0H">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Tweet Sentiment Classification</h3>
+      <p>A modular end-to-end fine-tuning framework for transformer-based sentiment analysis (BERT, RoBERTa) on a 45k-tweet corpus, integrated with a live Streamlit dashboard[cite: 1].</p>
+      <p><i><b>Stack:</b> Python, PyTorch, Hugging Face, Streamlit[cite: 1]</i></p>
+      <a href="https://github.com/salman0H">🔗 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Flowchart Builder</h3>
+      <p>An interactive flowchart editor featuring custom node shapes, a hierarchical tree, persistent JSON storage, and automatic ELKjs layout with collision avoidance[cite: 1].</p>
+      <p><i><b>Stack:</b> React, TypeScript, Tailwind CSS[cite: 1]</i></p>
+      <a href="https://github.com/salman0H">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎛️ CoreUI Dashboard</h3>
+      <p>A modular RTL/LTR-aware admin shell integrating sub-applications with dynamic i18n (EN/FA) and CSP-compliant architecture[cite: 1].</p>
+      <p><i><b>Stack:</b> React 18, TanStack Query, React Router[cite: 1]</i></p>
+      <a href="https://github.com/salman0H">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salman0h&show_icons=true&locale=en&layout=compact" alt="salman0h" /></p>
+### 📈 GitHub Profile Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salman0h&show_icons=true&locale=en" alt="salman0h" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=salman0H&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=38B2AC" alt="Salman's GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman0H&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=38B2AC" alt="Salman's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salman0h&" alt="salman0h" /></p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <!-- Ensure you have a GitHub Action set up to generate this snake animation in your repo -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salman0H/salman0H/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salman0H/salman0H/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salman0H/salman0H/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
