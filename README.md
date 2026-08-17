@@ -121,13 +121,4 @@ I am a creative and curious **Computer Engineering student** at *Birjand Univers
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 🐍 Contribution Snake
 
-<div align="center">
-  <!-- Ensure you have a GitHub Action set up to generate this snake animation in your repo -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salman0H/salman0H/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salman0H/salman0H/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salman0H/salman0H/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
