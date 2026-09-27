@@ -12,12 +12,12 @@
 
 ### ✨ About Me & My Journey
 
-I am a creative and curious **Computer Engineering student** at *Birjand University*[cite: 1], currently based in Mashhad, Iran[cite: 1]. I have a deep passion for the intersection of **Artificial Intelligence**, **Computer Networks**, and innovative **Software Development**[cite: 1]. I pride myself on being a fast learner with strong problem-solving abilities, always committed to writing clean code and sharing my knowledge with others[cite: 1].
+I am a creative and curious **Computer Engineering student** at *Birjand University*, currently based in Mashhad, Iran . I have a deep passion for the intersection of **Artificial Intelligence**, **Computer Networks**, and innovative **Software Development**. I pride myself on being a fast learner with strong problem-solving abilities, always committed to writing clean code and sharing my knowledge with others.
 
-- 🏢 **Currently working as** a Frontend Developer at **Mobin Smart Structures**, building web-based dashboards and control panels for smart building automation systems[cite: 1].
-- 👨‍🏫 **Previously**, I worked as an Advanced Web Design Instructor at **AbrClass**, teaching and mentoring students through practical projects[cite: 1].
-- 🧠 **Currently exploring** AI/ML frameworks like **TensorFlow** and **PyTorch**, alongside modern frontend architectures[cite: 1].
-- 🌱 **Soft Skills:** Time Management, Problem Solving, Teamwork, Mentoring, and an Agile Mindset[cite: 1].
+- 🏢 **Currently working as** a Frontend Developer at **Mobin Smart Structures**, building web-based dashboards and control panels for smart building automation systems.
+- 👨‍🏫 **Previously**, I worked as an Advanced Web Design Instructor at **AbrClass**, teaching and mentoring students through practical projects.
+- 🧠 **Currently exploring** AI/ML frameworks like **TensorFlow** and **PyTorch**, alongside modern frontend architectures.
+- 🌱 **Soft Skills:** Time Management, Problem Solving, Teamwork, Mentoring, and an Agile Mindset.
 - ⚡ **Fun Fact:** I started teaching programming while still being a student, and I absolutely love sharing knowledge!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -75,28 +75,28 @@ I am a creative and curious **Computer Engineering student** at *Birjand Univers
   <tr>
     <td width="50%" valign="top">
       <h3>🚲 BikeShare Admin Dashboard</h3>
-      <p>A full-featured management panel for bike-sharing systems. It includes interactive Neshan maps, real-time station data, KPI charts, and alert management[cite: 1].</p>
-      <p><i><b>Stack:</b> React, TypeScript, Tailwind CSS, JSON Server[cite: 1]</i></p>
+      <p>A full-featured management panel for bike-sharing systems. It includes interactive Neshan maps, real-time station data, KPI charts, and alert management .</p>
+      <p><i><b>Stack:</b> React, TypeScript, Tailwind CSS, JSON Server </i></p>
       <a href="https://github.com/salman0H">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Tweet Sentiment Classification</h3>
-      <p>A modular end-to-end fine-tuning framework for transformer-based sentiment analysis (BERT, RoBERTa) on a 45k-tweet corpus, integrated with a live Streamlit dashboard[cite: 1].</p>
-      <p><i><b>Stack:</b> Python, PyTorch, Hugging Face, Streamlit[cite: 1]</i></p>
+      <p>A modular end-to-end fine-tuning framework for transformer-based sentiment analysis (BERT, RoBERTa) on a 45k-tweet corpus, integrated with a live Streamlit dashboard .</p>
+      <p><i><b>Stack:</b> Python, PyTorch, Hugging Face, Streamlit </i></p>
       <a href="https://github.com/salman0H">🔗 View Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📊 Flowchart Builder</h3>
-      <p>An interactive flowchart editor featuring custom node shapes, a hierarchical tree, persistent JSON storage, and automatic ELKjs layout with collision avoidance[cite: 1].</p>
-      <p><i><b>Stack:</b> React, TypeScript, Tailwind CSS[cite: 1]</i></p>
+      <p>An interactive flowchart editor featuring custom node shapes, a hierarchical tree, persistent JSON storage, and automatic ELKjs layout with collision avoidance .</p>
+      <p><i><b>Stack:</b> React, TypeScript, Tailwind CSS</i></p>
       <a href="https://github.com/salman0H">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎛️ CoreUI Dashboard</h3>
-      <p>A modular RTL/LTR-aware admin shell integrating sub-applications with dynamic i18n (EN/FA) and CSP-compliant architecture[cite: 1].</p>
-      <p><i><b>Stack:</b> React 18, TanStack Query, React Router[cite: 1]</i></p>
+      <p>A modular RTL/LTR-aware admin shell integrating sub-applications with dynamic i18n (EN/FA) and CSP-compliant architecture .</p>
+      <p><i><b>Stack:</b> React 18, TanStack Query, React Router </i></p>
       <a href="https://github.com/salman0H">🔗 View Repository</a>
     </td>
   </tr>
