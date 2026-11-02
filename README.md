@@ -1,124 +1,174 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Salman+Hashemi!+%F0%9F%91%8B;Full-Stack+Web+Developer;Computer+Engineering+Student;AI+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+
+<sub>FRONTEND ENGINEERING · SYSTEMS THINKING · APPLIED LEARNING</sub>
+
+# Hey, I'm Salman Hashemi.
+
+### I build interfaces. I want to understand the whole system behind them.
+
+<img src="./assets/engineering-loop.svg" alt="Frontend engineering. Systems thinking. From interactive maps to data pipelines. Curious about what happens underneath." width="760" />
+
+Software developer with a Computer Engineering background.<br />
+Grounded in React and TypeScript; growing toward backend, networking, and intelligent applications.
+
+<p>
+  <a href="mailto:salmanhashemi247@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=38BDF8" alt="Email Salman" /></a>
+  <a href="https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV_GitHub.pdf"><img src="https://img.shields.io/badge/Resume-Read_my_CV-0F172A?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=38BDF8" alt="Read my resume" /></a>
+</p>
+
+[About](#about-me) &nbsp; · &nbsp; [Toolkit](#technical-toolkit) &nbsp; · &nbsp; [Projects](#selected-projects) &nbsp; · &nbsp; [Direction](#where-im-going)
+
 </div>
+
+---
+
+<a id="about-me"></a>
+
+## ◉ About me
+
+I'm Salman, a frontend developer who likes to follow a problem beyond the screen: through application state, API contracts, backend services, and the data underneath.
+
+My strongest foundation is **modern web application development**. I work with React and TypeScript to build dashboards, reusable components, map-based interfaces, and Persian/English experiences with RTL/LTR support. I care about how an application behaves when data changes, requests fail, or another feature needs to fit into the architecture.
+
+My Computer Engineering studies at the University of Birjand shape that curiosity. Operating systems, networks, algorithms, and computer architecture help me ask better questions about the software I build. My longer-term direction is to understand, design, integrate, and maintain complete systems.
+
+## ◇ What I bring to a project
+
+- **Frontend structure:** component boundaries, shared UI primitives, routing, application state, and reusable data-access patterns.
+- **Data-heavy interfaces:** operational dashboards, charts, interactive maps, and visual editors that make complex information easier to work with.
+- **Bilingual experiences:** Persian/English localization, document direction, and layouts that accommodate both RTL and LTR content.
+- **Engineering habits:** explicit loading and error states, attention to integration boundaries, and decisions that leave room for future changes.
+
+<a id="technical-toolkit"></a>
+
+## ⌘ Technical toolkit
+
+I separate tools I use in projects from areas where I'm still building depth.
+
+**My everyday frontend tools**
+
+<p>
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Astro-0F172A?style=for-the-badge&amp;logo=astro&amp;logoColor=FF5D01" alt="Astro" />
+</p>
+
+**My applied ML learning projects**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&amp;logo=pytorch&amp;logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0F172A?style=for-the-badge&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&amp;logo=streamlit&amp;logoColor=FF4B4B" alt="Streamlit" />
+</p>
+
+<details>
+<summary><strong>Explore the full toolkit & learning areas</strong></summary>
+
+
+| Level | Area | Technologies and practice |
+| :--- | :--- | :--- |
+| **Experienced with** | Frontend | React, TypeScript, JavaScript, HTML/CSS, Tailwind CSS, React Router, i18next |
+| **Experienced with** | Interfaces & integration | REST API consumption, React Flow, ELKjs, Neshan/Leaflet maps, dashboard visualization |
+| **Experienced with** | Web delivery & workflow | Astro, GSAP, responsive images, Git, Vite |
+| **Working knowledge** | Applied ML projects | Python, PyTorch, Hugging Face Transformers, scikit-learn, pandas, Streamlit |
+| **Currently exploring** | Backend & data | Java, Spring Boot, SQL, PostgreSQL/PostGIS, Redis, authentication and authorization |
+| **Currently exploring** | Networks & systems | TCP/IP, binary protocols, Netty, WebSocket, concurrency, event-driven processing |
+
+</details>
+
+---
+
+<a id="selected-projects"></a>
+
+## Selected projects
+
+### ◈ 01 / [dashboard-core](https://github.com/salman0H/dashboard-core)
+
+A modular dashboard workspace for bringing several interactive tools into a shared application shell.
+
+- Persian/English localization and RTL/LTR switching across the interface.
+- A React Flow editor with custom nodes, ELK layout, collision resolution, and node/edge persistence through a mock REST API.
+- Hierarchical tree and substation diagram modules, alongside shared routing and UI primitives.
+
+**Built with:** React · TypeScript · Tailwind CSS · i18next · React Flow · ELKjs · JSON Server
+
+### ◈ 02 / [bike-dashboard-core](https://github.com/salman0H/bike-dashboard-core)
+
+A bike-sharing administration prototype that brings fleet, station, user, and financial views into one interface.
+
+- Neshan/Leaflet station maps, route visualization, and shared station-selection state.
+- Dashboard charts, bike filters, and API-backed views with loading, error, and fallback handling.
+- JSON Server supplies mock data; this repository demonstrates the frontend workflow and integration structure.
+
+**Built with:** React · TypeScript · Tailwind CSS · Neshan Maps · Leaflet · JSON Server
+
+### ◈ 03 / [sentiment-tweet-classification](https://github.com/salman0H/sentiment-tweet-classification)
+
+A learning project for investigating three-class tweet sentiment classification with pretrained Transformer models.
+
+- Configurable BERT, RoBERTa, DistilBERT, and ALBERT experiments, including encoder-freezing options.
+- Persisted, stratified train/development/test splits and final evaluation selected by development-set F1.
+- A Streamlit interface for pipeline progress, logs, metrics, and resource monitoring.
+
+**Built with:** Python · PyTorch · Hugging Face Transformers · scikit-learn · Streamlit · Plotly
+
+### ◈ 04 / [selpa-portfolio](https://github.com/salman0H/selpa-portfolio)
+
+A Persian portfolio for a handcrafted leather atelier, connecting product storytelling with a responsive web experience.
+
+- React components within Astro, with GSAP motion and layouts adapted for smaller screens.
+- Responsive WebP variants, explicit image dimensions, and lazy loading below the fold.
+- Reduced-motion support and locally hosted Persian typography.
+
+**Built with:** Astro · React · TypeScript · Tailwind CSS · GSAP · Sharp
+
+[Explore the live site ↗](https://selpa.vercel.app/)
+
+---
+
+## ⌁ Following the data: GoldTrax
+
+My involvement in **GoldTrax**, a fleet-tracking platform, is expanding my understanding of how a vehicle position reaches a user: device communication, packet decoding, backend processing, geospatial storage, and delivery to web and mobile clients.
+
+I'm studying how TCP connections and Netty ingestion relate to Spring Boot services, PostgreSQL/PostGIS, Redis, REST APIs, and WebSocket updates. This is an ongoing area of architectural learning alongside my frontend foundation.
+
+The question that keeps me interested: **what has to happen between a device sending a packet and a map showing a trustworthy position?**
+
+<a id="where-im-going"></a>
+
+## ↗ Where I'm going
+
+<p align="center">
+<strong>Frontend engineering</strong><br />
+↓<br />
+Backend integration<br />
+↓<br />
+Networks &amp; real-time systems<br />
+↓<br />
+<strong>Intelligent applications</strong>
+</p>
+
+These interests connect through the same goal: understanding how data moves, how components cooperate, and where a system can fail.
+
+I'm deepening my knowledge of API design, relational data modeling, authentication, caching, and concurrent processing. In AI, my focus is on the mathematical and computational ideas behind machine learning, NLP, Transformers, and language models, supported by practical Python experiments. I'm also interested in further study and research connecting software engineering, AI, and computer systems.
+
+## ✦ Teaching & life beyond the editor
+
+I've taught advanced web development and mentored programming students. My teaching experience also includes programming fundamentals, advanced programming, and operating systems. Explaining a concept clearly often reveals what I still need to understand about it.
+
+Outside software, I make time for **karate and basketball**.
+
+---
 
 <div align="center">
-  <a href="mailto:salmanhashemi247@gmail.com"><img src="https://img.shields.io/badge/Email-salmanhashemi247%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/salman0H/RESUME/blob/main/Salman_Hashemi_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download_CV-2671E5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-  <img src="https://komarev.com/ghpvc/?username=salman0H&color=38B2AC&style=for-the-badge&label=Profile+Views" alt="Views" />
+
+**Good interfaces start with understanding what happens underneath.**
+
+Interested in frontend engineering, system integration, or learning through a practical project?<br />
+[Let's talk.](mailto:salmanhashemi247@gmail.com)
+
+<sub>BUILD · UNDERSTAND · EXPLAIN · REPEAT</sub>
+
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-### ✨ About Me & My Journey
-
-I am a creative and curious **Computer Engineering student** at *Birjand University*, currently based in Mashhad, Iran . I have a deep passion for the intersection of **Artificial Intelligence**, **Computer Networks**, and innovative **Software Development**. I pride myself on being a fast learner with strong problem-solving abilities, always committed to writing clean code and sharing my knowledge with others.
-
-- 🏢 **Currently working as** a Frontend Developer at **Mobin Smart Structures**, building web-based dashboards and control panels for smart building automation systems.
-- 👨‍🏫 **Previously**, I worked as an Advanced Web Design Instructor at **AbrClass**, teaching and mentoring students through practical projects.
-- 🧠 **Currently exploring** AI/ML frameworks like **TensorFlow** and **PyTorch**, alongside modern frontend architectures.
-- 🌱 **Soft Skills:** Time Management, Problem Solving, Teamwork, Mentoring, and an Agile Mindset.
-- ⚡ **Fun Fact:** I started teaching programming while still being a student, and I absolutely love sharing knowledge!
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-### 🛠️ Technologies & Tools
-
-<table>
-  <tr>
-    <td width="25%" align="center"><b>🌐 Frontend</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 AI & Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🚀 DevOps & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-### 💻 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚲 BikeShare Admin Dashboard</h3>
-      <p>A full-featured management panel for bike-sharing systems. It includes interactive Neshan maps, real-time station data, KPI charts, and alert management .</p>
-      <p><i><b>Stack:</b> React, TypeScript, Tailwind CSS, JSON Server </i></p>
-      <a href="https://github.com/salman0H">🔗 View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Tweet Sentiment Classification</h3>
-      <p>A modular end-to-end fine-tuning framework for transformer-based sentiment analysis (BERT, RoBERTa) on a 45k-tweet corpus, integrated with a live Streamlit dashboard .</p>
-      <p><i><b>Stack:</b> Python, PyTorch, Hugging Face, Streamlit </i></p>
-      <a href="https://github.com/salman0H">🔗 View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Flowchart Builder</h3>
-      <p>An interactive flowchart editor featuring custom node shapes, a hierarchical tree, persistent JSON storage, and automatic ELKjs layout with collision avoidance .</p>
-      <p><i><b>Stack:</b> React, TypeScript, Tailwind CSS</i></p>
-      <a href="https://github.com/salman0H">🔗 View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎛️ CoreUI Dashboard</h3>
-      <p>A modular RTL/LTR-aware admin shell integrating sub-applications with dynamic i18n (EN/FA) and CSP-compliant architecture .</p>
-      <p><i><b>Stack:</b> React 18, TanStack Query, React Router </i></p>
-      <a href="https://github.com/salman0H">🔗 View Repository</a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-### 📈 GitHub Profile Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=salman0H&show_icons=true&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=38B2AC" alt="Salman's GitHub Stats" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman0H&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=38B2AC" alt="Salman's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-
