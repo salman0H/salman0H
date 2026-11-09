@@ -126,6 +126,18 @@ A Persian portfolio for a handcrafted leather atelier, connecting product storyt
 
 [Explore the live site ↗](https://selpa.vercel.app/)
 
+### ◈ 05 / [Hashiyeh · حاشیه](https://github.com/salman0H/Hashieh)
+
+A personal learning workspace that connects classroom conversations, source-backed notes, vocabulary, practice, and reflection on a paper-inspired board.
+
+- An interactive topic graph with React Flow, sticky-note styling, GSAP motion, and reduced-motion support.
+- Markdown import with automatic Persian/English block direction, alongside searchable word families and review cards.
+- Versioned JSON content, browser-local notes and progress, and an optional server-side Groq study companion.
+
+**Built with:** Next.js · React · TypeScript · GSAP · React Flow · Markdown · Groq
+
+[Project guide ↗](https://github.com/salman0H/Hashieh#readme) · [راهنمای فارسی ↗](https://github.com/salman0H/Hashieh/blob/main/README.fa.md)
+
 ---
 
 ## ⌁ Following the data: GoldTrax
